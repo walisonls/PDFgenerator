@@ -18,7 +18,7 @@ const passengers = [
     {
         name: "Eve",
         flightNumber: 7859,
-        time: "18h00"
+        time: "18h00",
     },
 ];
 
